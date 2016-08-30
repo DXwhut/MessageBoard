@@ -1,5 +1,4 @@
 <?php
-
 $gb_name= '想对我说的话';
 $gb_logo='images/logo.gif';
 $index_url='/';

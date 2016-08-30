@@ -14,5 +14,4 @@ define('TABLE_PREFIX', "mb_");
 if (PHP_VERSION > '5.2.0'){
 date_default_timezone_set('PRC');
 }
-
 ?>

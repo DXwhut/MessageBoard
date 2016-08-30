@@ -57,5 +57,4 @@ function cutstr($str,$strlen=10,$other=true)
 	}
 	return $rstr;
 }
-
 ?>
